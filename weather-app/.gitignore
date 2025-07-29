@@ -1,2 +1,2 @@
-const apiKey = "8a7bb8e793f9e6ded58fb190d7c312f7";
-const apiURL = "https://api.openweathermap.org/data/2.5/weather";
+const apiKey = "";
+const apiURL = "";
